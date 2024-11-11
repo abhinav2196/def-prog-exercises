@@ -3,6 +3,7 @@ package app
 import (
 	"context"
 	"database/sql"
+	//sql "blocksize-capital/golab-conference/testing-app/def-prog-exercises/safesql"
 	"fmt"
 	"io"
 	"log"
